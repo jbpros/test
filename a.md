@@ -1,2 +1,3 @@
 # A
-Paragraph A on line 2
+
+Paragraph A on line 3
